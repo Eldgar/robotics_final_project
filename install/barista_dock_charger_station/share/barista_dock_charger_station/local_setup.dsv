@@ -1,0 +1,4 @@
+source;share/barista_dock_charger_station/environment/ament_prefix_path.sh
+source;share/barista_dock_charger_station/environment/library_path.sh
+source;share/barista_dock_charger_station/environment/path.sh
+source;share/barista_dock_charger_station/environment/pythonpath.sh

@@ -1,0 +1,9 @@
+/home/user/ros2_ws/build/barista_extra_models/CMakeFiles/uninstall.dir
+/home/user/ros2_ws/build/barista_extra_models/CMakeFiles/barista_extra_models_uninstall.dir
+/home/user/ros2_ws/build/barista_extra_models/CMakeFiles/test.dir
+/home/user/ros2_ws/build/barista_extra_models/CMakeFiles/edit_cache.dir
+/home/user/ros2_ws/build/barista_extra_models/CMakeFiles/rebuild_cache.dir
+/home/user/ros2_ws/build/barista_extra_models/CMakeFiles/list_install_components.dir
+/home/user/ros2_ws/build/barista_extra_models/CMakeFiles/install.dir
+/home/user/ros2_ws/build/barista_extra_models/CMakeFiles/install/local.dir
+/home/user/ros2_ws/build/barista_extra_models/CMakeFiles/install/strip.dir

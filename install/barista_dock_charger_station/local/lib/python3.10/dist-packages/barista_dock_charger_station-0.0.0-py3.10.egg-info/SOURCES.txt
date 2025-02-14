@@ -1,0 +1,10 @@
+setup.py
+barista_dock_charger_station/__init__.py
+barista_dock_charger_station.egg-info/PKG-INFO
+barista_dock_charger_station.egg-info/SOURCES.txt
+barista_dock_charger_station.egg-info/dependency_links.txt
+barista_dock_charger_station.egg-info/top_level.txt
+barista_dock_charger_station/msg/__init__.py
+barista_dock_charger_station/msg/_fleet_dock_status.py
+barista_dock_charger_station/srv/__init__.py
+barista_dock_charger_station/srv/_dock_charger_station.py

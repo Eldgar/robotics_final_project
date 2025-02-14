@@ -1,0 +1,36 @@
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1_2_turtleworld.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1_ramenshop_pantry.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1_ramenshop.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_2.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_navigation_rviz_starbots_three.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_rviz.launch.py
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_2_turtleworld.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_navigation_rviz.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_navigation_rviz_starbots.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1_turtleworld.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1_2_mule_turtleworld.launch.xml
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/navigation copy.rviz
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/baristas_turtleE_starbots.rviz
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/navigation_turtleworld copy.rviz
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/baristas_starbots.rviz
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/navigation_turtleworld.rviz
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/ramenshop.rviz
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/navigation.rviz
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/params/dummy.txt
+/home/user/ros2_ws/install/main_navigation/share/ament_index/resource_index/package_run_dependencies/main_navigation
+/home/user/ros2_ws/install/main_navigation/share/ament_index/resource_index/parent_prefix_path/main_navigation
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/environment/ament_prefix_path.sh
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/environment/ament_prefix_path.dsv
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/environment/path.sh
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/environment/path.dsv
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/local_setup.bash
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/local_setup.sh
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/local_setup.zsh
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/local_setup.dsv
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/package.dsv
+/home/user/ros2_ws/install/main_navigation/share/ament_index/resource_index/packages/main_navigation
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/cmake/main_navigationConfig.cmake
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/cmake/main_navigationConfig-version.cmake
+/home/user/ros2_ws/install/main_navigation/share/main_navigation/package.xml

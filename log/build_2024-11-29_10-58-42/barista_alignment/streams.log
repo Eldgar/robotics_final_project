@@ -1,0 +1,167 @@
+[0.429s] Invoking command in '/home/user/ros2_ws/build/barista_alignment': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/home/user/ros2_ws/install/aruco_detection_tests:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/barista_alignment -- -j8 -l8
+[0.928s] [  3%] Built target barista_alignment__rs
+[1.200s] [  3%] Built target ament_cmake_python_copy_barista_alignment
+[1.485s] [  6%] Built target barista_alignment__cpp
+[2.289s] running egg_info
+[2.291s] writing barista_alignment.egg-info/PKG-INFO
+[2.291s] writing dependency_links to barista_alignment.egg-info/dependency_links.txt
+[2.292s] writing top-level names to barista_alignment.egg-info/top_level.txt
+[2.295s] reading manifest file 'barista_alignment.egg-info/SOURCES.txt'
+[2.296s] writing manifest file 'barista_alignment.egg-info/SOURCES.txt'
+[2.361s] [  6%] Built target ament_cmake_python_build_barista_alignment_egg
+[2.510s] [ 15%] Built target barista_alignment__rosidl_typesupport_cpp
+[2.628s] [ 25%] Built target barista_alignment__rosidl_typesupport_introspection_cpp
+[2.781s] [ 34%] Built target barista_alignment__rosidl_typesupport_fastrtps_cpp
+[3.023s] [ 43%] Built target barista_alignment__rosidl_generator_c
+[3.281s] [ 53%] Built target barista_alignment__rosidl_typesupport_fastrtps_c
+[3.490s] [ 62%] Built target barista_alignment__rosidl_typesupport_c
+[3.665s] [ 71%] Built target barista_alignment__rosidl_typesupport_introspection_c
+[3.842s] [ 71%] Built target barista_alignment
+[3.968s] [ 75%] Built target barista_alignment__py
+[4.098s] [ 81%] Built target barista_alignment__rosidl_generator_py
+[4.187s] [ 87%] Built target barista_alignment__rosidl_typesupport_fastrtps_c__pyext
+[4.366s] [ 93%] Built target barista_alignment__rosidl_typesupport_c__pyext
+[4.558s] [100%] Built target barista_alignment__rosidl_typesupport_introspection_c__pyext
+[5.377s] Invoked command in '/home/user/ros2_ws/build/barista_alignment' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/home/user/ros2_ws/install/aruco_detection_tests:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/barista_alignment -- -j8 -l8
+[6.878s] Invoking command in '/home/user/ros2_ws/build/barista_alignment': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/home/user/ros2_ws/install/aruco_detection_tests:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/barista_alignment
+[7.051s] -- Install configuration: ""
+[7.051s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment//launch
+[7.051s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment//launch/barista_2_align_server.launch.xml
+[7.051s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment//launch/barista_1_align_server.launch.xml
+[7.051s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/ament_index/resource_index/rosidl_interfaces/barista_alignment
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/msg
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/msg/rosidl_generator_c__visibility_control.h
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__struct.h
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__type_support.h
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__functions.h
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__functions.c
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/align_barista.h
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/environment/library_path.sh
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/environment/library_path.dsv
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/lib/libbarista_alignment__rosidl_generator_c.so
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/msg
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__rosidl_typesupport_fastrtps_c.h
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/lib/libbarista_alignment__rosidl_typesupport_fastrtps_c.so
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__struct.hpp
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__builder.hpp
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__traits.hpp
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/align_barista.hpp
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/msg
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__rosidl_typesupport_fastrtps_cpp.hpp
+[7.056s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/dds_fastrtps
+[7.057s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/lib/libbarista_alignment__rosidl_typesupport_fastrtps_cpp.so
+[7.057s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/msg
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__rosidl_typesupport_introspection_c.h
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__type_support.c
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/lib/libbarista_alignment__rosidl_typesupport_introspection_c.so
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/lib/libbarista_alignment__rosidl_typesupport_c.so
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail
+[7.059s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__type_support.cpp
+[7.059s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/include/barista_alignment/barista_alignment/action/detail/align_barista__rosidl_typesupport_introspection_cpp.hpp
+[7.059s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/lib/libbarista_alignment__rosidl_typesupport_introspection_cpp.so
+[7.059s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/lib/libbarista_alignment__rosidl_typesupport_cpp.so
+[7.059s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/ament_index/resource_index/rust_packages/barista_alignment
+[7.059s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust
+[7.059s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/Cargo.toml
+[7.059s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/src
+[7.059s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/src/lib.rs
+[7.059s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/build.rs
+[7.059s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust
+[7.060s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/Cargo.toml
+[7.060s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/src
+[7.060s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/src/lib.rs
+[7.060s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/build.rs
+[7.060s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust
+[7.060s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/Cargo.toml
+[7.060s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/src
+[7.060s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/src/lib.rs
+[7.060s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/rust/build.rs
+[7.060s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/environment/pythonpath.sh
+[7.061s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/environment/pythonpath.dsv
+[7.061s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment-0.0.0-py3.10.egg-info
+[7.061s] -- Installing: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment-0.0.0-py3.10.egg-info/PKG-INFO
+[7.061s] -- Installing: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment-0.0.0-py3.10.egg-info/top_level.txt
+[7.061s] -- Installing: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment-0.0.0-py3.10.egg-info/SOURCES.txt
+[7.061s] -- Installing: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment-0.0.0-py3.10.egg-info/dependency_links.txt
+[7.061s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment
+[7.061s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/barista_alignment_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[7.061s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/_barista_alignment_s.ep.rosidl_typesupport_c.c
+[7.061s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/barista_alignment_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[7.061s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/__init__.py
+[7.061s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/_barista_alignment_s.ep.rosidl_typesupport_introspection_c.c
+[7.061s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/barista_alignment_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/libbarista_alignment__rosidl_generator_py.so
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/action
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/action/_align_barista_s.c
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/action/__init__.py
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/action/_align_barista.py
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/_barista_alignment_s.ep.rosidl_typesupport_fastrtps_c.c
+[7.062s] Listing '/home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment'...
+[7.062s] Listing '/home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/action'...
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/barista_alignment_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/barista_alignment_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/local/lib/python3.10/dist-packages/barista_alignment/barista_alignment_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/lib/libbarista_alignment__rosidl_generator_py.so
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/action/AlignBarista.idl
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/action/AlignBarista.action
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/lib/barista_alignment/align_barista.py
+[7.062s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/ament_index/resource_index/package_run_dependencies/barista_alignment
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/ament_index/resource_index/parent_prefix_path/barista_alignment
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/environment/ament_prefix_path.sh
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/environment/ament_prefix_path.dsv
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/environment/path.sh
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/environment/path.dsv
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/local_setup.bash
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/local_setup.sh
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/local_setup.zsh
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/local_setup.dsv
+[7.063s] -- Installing: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/package.dsv
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/ament_index/resource_index/packages/barista_alignment
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/export_barista_alignment__rosidl_generator_cExport.cmake
+[7.063s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/export_barista_alignment__rosidl_generator_cExport-noconfig.cmake
+[7.064s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/export_barista_alignment__rosidl_typesupport_fastrtps_cExport.cmake
+[7.064s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/export_barista_alignment__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[7.064s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/export_barista_alignment__rosidl_generator_cppExport.cmake
+[7.064s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/export_barista_alignment__rosidl_typesupport_fastrtps_cppExport.cmake
+[7.064s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/export_barista_alignment__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[7.064s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/barista_alignment__rosidl_typesupport_introspection_cExport.cmake
+[7.064s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/barista_alignment__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[7.065s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/barista_alignment__rosidl_typesupport_cExport.cmake
+[7.066s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/barista_alignment__rosidl_typesupport_cExport-noconfig.cmake
+[7.066s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/barista_alignment__rosidl_typesupport_introspection_cppExport.cmake
+[7.066s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/barista_alignment__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[7.066s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/barista_alignment__rosidl_typesupport_cppExport.cmake
+[7.066s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/barista_alignment__rosidl_typesupport_cppExport-noconfig.cmake
+[7.066s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/export_barista_alignment__rosidl_generator_pyExport.cmake
+[7.066s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/export_barista_alignment__rosidl_generator_pyExport-noconfig.cmake
+[7.066s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/rosidl_cmake-extras.cmake
+[7.066s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/ament_cmake_export_dependencies-extras.cmake
+[7.066s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/ament_cmake_export_include_directories-extras.cmake
+[7.066s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/ament_cmake_export_libraries-extras.cmake
+[7.067s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/ament_cmake_export_targets-extras.cmake
+[7.067s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[7.067s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[7.067s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/barista_alignmentConfig.cmake
+[7.067s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/cmake/barista_alignmentConfig-version.cmake
+[7.067s] -- Up-to-date: /home/user/ros2_ws/install/barista_alignment/share/barista_alignment/package.xml
+[7.212s] Invoked command in '/home/user/ros2_ws/build/barista_alignment' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/home/user/ros2_ws/install/aruco_detection_tests:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/barista_alignment

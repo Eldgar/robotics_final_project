@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/barista_table_finder__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/barista_table_finder/action/detail/align_barista__type_support_c.cpp.o"
+  "CMakeFiles/barista_table_finder__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/barista_table_finder/action/detail/align_barista__type_support_c.cpp.o.d"
+  "CMakeFiles/barista_table_finder__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/barista_table_finder/action/detail/go_under_table__type_support_c.cpp.o"
+  "CMakeFiles/barista_table_finder__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/barista_table_finder/action/detail/go_under_table__type_support_c.cpp.o.d"
+  "libbarista_table_finder__rosidl_typesupport_fastrtps_c.pdb"
+  "libbarista_table_finder__rosidl_typesupport_fastrtps_c.so"
+  "rosidl_typesupport_fastrtps_c/barista_table_finder/action/detail/align_barista__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/barista_table_finder/action/detail/align_barista__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/barista_table_finder/action/detail/go_under_table__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/barista_table_finder/action/detail/go_under_table__type_support_c.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/barista_table_finder__rosidl_typesupport_fastrtps_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

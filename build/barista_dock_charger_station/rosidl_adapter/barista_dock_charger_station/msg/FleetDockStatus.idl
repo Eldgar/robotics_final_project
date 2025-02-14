@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from barista_dock_charger_station/msg/FleetDockStatus.msg
+// generated code does not contain a copyright notice
+
+
+module barista_dock_charger_station {
+  module msg {
+    struct FleetDockStatus {
+      sequence<boolean> fleet_dock_status_array;
+
+      sequence<string> fleet_names_array;
+    };
+  };
+};

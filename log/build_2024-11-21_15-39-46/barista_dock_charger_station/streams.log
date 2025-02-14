@@ -1,0 +1,224 @@
+[0.076s] Invoking command in '/home/user/ros2_ws/build/barista_dock_charger_station': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/barista_dock_charger_station -- -j8 -l8
+[0.586s] [  2%] [34m[1mGenerating Rust code for ROS interfaces[0m
+[1.927s] [  2%] Built target barista_dock_charger_station__rs
+[2.079s] [  2%] Built target ament_cmake_python_copy_barista_dock_charger_station
+[2.189s] [  5%] Built target barista_dock_charger_station__cpp
+[2.912s] running egg_info
+[2.913s] writing barista_dock_charger_station.egg-info/PKG-INFO
+[2.914s] writing dependency_links to barista_dock_charger_station.egg-info/dependency_links.txt
+[2.914s] writing top-level names to barista_dock_charger_station.egg-info/top_level.txt
+[2.919s] reading manifest file 'barista_dock_charger_station.egg-info/SOURCES.txt'
+[2.920s] writing manifest file 'barista_dock_charger_station.egg-info/SOURCES.txt'
+[3.011s] [  5%] Built target ament_cmake_python_build_barista_dock_charger_station_egg
+[3.161s] [ 15%] Built target barista_dock_charger_station__rosidl_typesupport_cpp
+[3.299s] [ 25%] Built target barista_dock_charger_station__rosidl_typesupport_introspection_cpp
+[3.522s] [ 35%] Built target barista_dock_charger_station__rosidl_typesupport_fastrtps_cpp
+[3.685s] [ 45%] Built target barista_dock_charger_station__rosidl_generator_c
+[3.815s] [ 55%] Built target barista_dock_charger_station__rosidl_typesupport_fastrtps_c
+[4.006s] [ 65%] Built target barista_dock_charger_station__rosidl_typesupport_c
+[4.172s] [ 75%] Built target barista_dock_charger_station__rosidl_typesupport_introspection_c
+[4.288s] [ 75%] Built target barista_dock_charger_station
+[4.373s] [ 77%] Built target barista_dock_charger_station__py
+[4.475s] [ 85%] Built target barista_dock_charger_station__rosidl_generator_py
+[4.565s] [ 90%] Built target barista_dock_charger_station__rosidl_typesupport_fastrtps_c__pyext
+[4.754s] [ 95%] Built target barista_dock_charger_station__rosidl_typesupport_c__pyext
+[4.975s] [100%] Built target barista_dock_charger_station__rosidl_typesupport_introspection_c__pyext
+[5.095s] Invoked command in '/home/user/ros2_ws/build/barista_dock_charger_station' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/barista_dock_charger_station -- -j8 -l8
+[6.966s] Invoking command in '/home/user/ros2_ws/build/barista_dock_charger_station': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/barista_dock_charger_station
+[7.034s] -- Install configuration: ""
+[7.035s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/ament_index/resource_index/rosidl_interfaces/barista_dock_charger_station
+[7.035s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station
+[7.035s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv
+[7.035s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail
+[7.035s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__functions.h
+[7.035s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__functions.c
+[7.035s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__type_support.h
+[7.035s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__struct.h
+[7.036s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/dock_charger_station.h
+[7.036s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg
+[7.036s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail
+[7.036s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__functions.c
+[7.036s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__struct.h
+[7.036s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__type_support.h
+[7.036s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__functions.h
+[7.036s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/rosidl_generator_c__visibility_control.h
+[7.036s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/fleet_dock_status.h
+[7.037s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/environment/library_path.sh
+[7.037s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/environment/library_path.dsv
+[7.037s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/libbarista_dock_charger_station__rosidl_generator_c.so
+[7.037s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station
+[7.037s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv
+[7.037s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail
+[7.037s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__rosidl_typesupport_fastrtps_c.h
+[7.037s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg
+[7.037s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail
+[7.038s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__rosidl_typesupport_fastrtps_c.h
+[7.038s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[7.038s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/libbarista_dock_charger_station__rosidl_typesupport_fastrtps_c.so
+[7.038s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station
+[7.038s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv
+[7.038s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail
+[7.038s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__struct.hpp
+[7.038s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__builder.hpp
+[7.038s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__traits.hpp
+[7.038s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/dock_charger_station.hpp
+[7.039s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg
+[7.039s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail
+[7.039s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__struct.hpp
+[7.040s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__builder.hpp
+[7.040s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__traits.hpp
+[7.040s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/fleet_dock_status.hpp
+[7.040s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station
+[7.040s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv
+[7.040s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail
+[7.040s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__rosidl_typesupport_fastrtps_cpp.hpp
+[7.040s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dds_fastrtps
+[7.040s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg
+[7.041s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail
+[7.041s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/dds_fastrtps
+[7.041s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__rosidl_typesupport_fastrtps_cpp.hpp
+[7.041s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[7.041s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/libbarista_dock_charger_station__rosidl_typesupport_fastrtps_cpp.so
+[7.041s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station
+[7.042s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv
+[7.042s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail
+[7.042s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__rosidl_typesupport_introspection_c.h
+[7.042s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__type_support.c
+[7.042s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg
+[7.042s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail
+[7.042s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__type_support.c
+[7.042s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__rosidl_typesupport_introspection_c.h
+[7.043s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[7.043s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/libbarista_dock_charger_station__rosidl_typesupport_introspection_c.so
+[7.043s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/libbarista_dock_charger_station__rosidl_typesupport_c.so
+[7.043s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station
+[7.043s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv
+[7.043s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail
+[7.043s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__type_support.cpp
+[7.043s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/srv/detail/dock_charger_station__rosidl_typesupport_introspection_cpp.hpp
+[7.043s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg
+[7.043s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail
+[7.044s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__type_support.cpp
+[7.044s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/include/barista_dock_charger_station/barista_dock_charger_station/msg/detail/fleet_dock_status__rosidl_typesupport_introspection_cpp.hpp
+[7.044s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/libbarista_dock_charger_station__rosidl_typesupport_introspection_cpp.so
+[7.044s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/libbarista_dock_charger_station__rosidl_typesupport_cpp.so
+[7.044s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/ament_index/resource_index/rust_packages/barista_dock_charger_station
+[7.051s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust
+[7.051s] -- Installing: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/Cargo.toml
+[7.051s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src
+[7.051s] -- Installing: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src/msg.rs
+[7.051s] -- Installing: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src/srv.rs
+[7.052s] -- Installing: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src/lib.rs
+[7.052s] -- Installing: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/build.rs
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/Cargo.toml
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src/msg.rs
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src/srv.rs
+[7.052s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src/lib.rs
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/build.rs
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/Cargo.toml
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src/msg.rs
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src/srv.rs
+[7.053s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/src/lib.rs
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/rust/build.rs
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/environment/pythonpath.sh
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/environment/pythonpath.dsv
+[7.054s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station-0.0.0-py3.10.egg-info
+[7.054s] -- Installing: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station-0.0.0-py3.10.egg-info/PKG-INFO
+[7.055s] -- Installing: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station-0.0.0-py3.10.egg-info/top_level.txt
+[7.055s] -- Installing: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station-0.0.0-py3.10.egg-info/SOURCES.txt
+[7.055s] -- Installing: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station-0.0.0-py3.10.egg-info/dependency_links.txt
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/_barista_dock_charger_station_s.ep.rosidl_typesupport_fastrtps_c.c
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/_barista_dock_charger_station_s.ep.rosidl_typesupport_introspection_c.c
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/srv
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/srv/_dock_charger_station_s.c
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/srv/_dock_charger_station.py
+[7.055s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/srv/__init__.py
+[7.056s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/_barista_dock_charger_station_s.ep.rosidl_typesupport_c.c
+[7.056s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/msg
+[7.056s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/msg/_fleet_dock_status_s.c
+[7.056s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/msg/_fleet_dock_status.py
+[7.056s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/msg/__init__.py
+[7.057s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/__init__.py
+[7.057s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/libbarista_dock_charger_station__rosidl_generator_py.so
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/barista_dock_charger_station_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/barista_dock_charger_station_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[7.058s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/barista_dock_charger_station_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[7.183s] Listing '/home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station'...
+[7.185s] Listing '/home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/msg'...
+[7.186s] Listing '/home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/srv'...
+[7.186s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/barista_dock_charger_station_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[7.188s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/barista_dock_charger_station_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[7.188s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/local/lib/python3.10/dist-packages/barista_dock_charger_station/barista_dock_charger_station_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[7.188s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/libbarista_dock_charger_station__rosidl_generator_py.so
+[7.188s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/srv/DockChargerStation.idl
+[7.188s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/msg/FleetDockStatus.idl
+[7.188s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/srv/DockChargerStation.srv
+[7.188s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/srv/DockChargerStation_Request.msg
+[7.189s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/srv/DockChargerStation_Response.msg
+[7.189s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/msg/FleetDockStatus.msg
+[7.189s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch
+[7.189s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/barista_1_charge_server_v3.launch.xml
+[7.191s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/barista_1_charge_server.launch.xml
+[7.191s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/barista_2_start_dock_charger_station_server.launch.xml
+[7.191s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/cleaner_1_start_dock_charger_station_server.launch.xml
+[7.191s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/launch_one_turtleE_charge_servers.launch.xml
+[7.191s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/launch_two_barista_charge_servers.launch.xml
+[7.191s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/barista_2_charge_server_v3.launch.xml
+[7.191s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/start_dock_charger_station_server.launch.xml
+[7.192s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/start_fleet_robots_are_docked.launch.xml
+[7.192s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/start_two_teleport_charge_servers.launch.xml
+[7.192s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/barista_2_charge_server.launch.xml
+[7.192s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/barista_1_start_dock_charger_station_server.launch.xml
+[7.192s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/barista_three_start_dock_charger_station_server.launch.xml
+[7.192s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station//launch/barista_charge_server.launch.xml
+[7.192s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/barista_dock_charger_station/start_dock_charger_station_server.py
+[7.192s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/barista_dock_charger_station/start_fleet_robots_are_docked.py
+[7.192s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/barista_dock_charger_station/barista_dock_node.py
+[7.193s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/barista_dock_charger_station/barista_dock_node_v2.py
+[7.193s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/barista_dock_charger_station/barista_dock_node_v3.py
+[7.193s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/lib/barista_dock_charger_station/scan_orientation.py
+[7.193s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/ament_index/resource_index/package_run_dependencies/barista_dock_charger_station
+[7.193s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/ament_index/resource_index/parent_prefix_path/barista_dock_charger_station
+[7.193s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/environment/ament_prefix_path.sh
+[7.193s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/environment/ament_prefix_path.dsv
+[7.193s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/environment/path.sh
+[7.193s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/environment/path.dsv
+[7.194s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/local_setup.bash
+[7.194s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/local_setup.sh
+[7.194s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/local_setup.zsh
+[7.194s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/local_setup.dsv
+[7.194s] -- Installing: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/package.dsv
+[7.194s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/ament_index/resource_index/packages/barista_dock_charger_station
+[7.194s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/export_barista_dock_charger_station__rosidl_generator_cExport.cmake
+[7.194s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/export_barista_dock_charger_station__rosidl_generator_cExport-noconfig.cmake
+[7.194s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/export_barista_dock_charger_station__rosidl_typesupport_fastrtps_cExport.cmake
+[7.194s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/export_barista_dock_charger_station__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[7.195s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/export_barista_dock_charger_station__rosidl_generator_cppExport.cmake
+[7.195s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/export_barista_dock_charger_station__rosidl_typesupport_fastrtps_cppExport.cmake
+[7.195s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/export_barista_dock_charger_station__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[7.195s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/barista_dock_charger_station__rosidl_typesupport_introspection_cExport.cmake
+[7.195s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/barista_dock_charger_station__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[7.195s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/barista_dock_charger_station__rosidl_typesupport_cExport.cmake
+[7.195s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/barista_dock_charger_station__rosidl_typesupport_cExport-noconfig.cmake
+[7.195s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/barista_dock_charger_station__rosidl_typesupport_introspection_cppExport.cmake
+[7.195s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/barista_dock_charger_station__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[7.196s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/barista_dock_charger_station__rosidl_typesupport_cppExport.cmake
+[7.196s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/barista_dock_charger_station__rosidl_typesupport_cppExport-noconfig.cmake
+[7.196s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/export_barista_dock_charger_station__rosidl_generator_pyExport.cmake
+[7.196s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/export_barista_dock_charger_station__rosidl_generator_pyExport-noconfig.cmake
+[7.196s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/rosidl_cmake-extras.cmake
+[7.196s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/ament_cmake_export_include_directories-extras.cmake
+[7.196s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/ament_cmake_export_libraries-extras.cmake
+[7.196s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/ament_cmake_export_targets-extras.cmake
+[7.196s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[7.196s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/ament_cmake_export_dependencies-extras.cmake
+[7.197s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[7.197s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/barista_dock_charger_stationConfig.cmake
+[7.197s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/cmake/barista_dock_charger_stationConfig-version.cmake
+[7.197s] -- Up-to-date: /home/user/ros2_ws/install/barista_dock_charger_station/share/barista_dock_charger_station/package.xml
+[7.363s] Invoked command in '/home/user/ros2_ws/build/barista_dock_charger_station' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/barista_dock_charger_station

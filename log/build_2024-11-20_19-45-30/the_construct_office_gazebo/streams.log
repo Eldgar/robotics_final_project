@@ -1,0 +1,183 @@
+[0.027s] Invoking command in '/home/user/ros2_ws/build/the_construct_office_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/universal_robot_ros2/the_construct_office_gazebo -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/the_construct_office_gazebo
+[0.109s] -- The C compiler identification is GNU 11.3.0
+[0.169s] -- The CXX compiler identification is GNU 11.3.0
+[0.178s] -- Detecting C compiler ABI info
+[0.280s] -- Detecting C compiler ABI info - done
+[0.287s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.288s] -- Detecting C compile features
+[0.288s] -- Detecting C compile features - done
+[0.291s] -- Detecting CXX compiler ABI info
+[0.406s] -- Detecting CXX compiler ABI info - done
+[0.414s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.414s] -- Detecting CXX compile features
+[0.415s] -- Detecting CXX compile features - done
+[0.431s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.726s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.021s] -- Found gazebo_ros: 3.7.0 (/opt/ros/humble/share/gazebo_ros/cmake)
+[1.213s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.243s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.278s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.323s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.387s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.580s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.600s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.831s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.885s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.985s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.039s] -- Looking for pthread.h
+[2.156s] -- Looking for pthread.h - found
+[2.157s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.277s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.278s] -- Found Threads: TRUE  
+[2.535s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") 
+[2.536s] -- Checking for module 'bullet>=2.82'
+[2.563s] --   Found bullet, version 3.05
+[2.790s] -- Found fcl: /usr/include (found suitable version "0.7.0", minimum required is "0.5.0") 
+[2.881s] -- Found assimp: /usr/include (found version "5.2.0") 
+[2.964s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[3.074s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+[3.102s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+[3.133s] -- Looking for ignition-math6 -- found version 6.12.0
+[3.153s] -- Searching for dependencies of ignition-math6
+[3.154s] -- Looking for OGRE...
+[3.154s] -- OGRE_PREFIX_WATCH changed.
+[3.162s] -- Checking for module 'OGRE'
+[3.190s] --   Found OGRE, version 1.9.0
+[3.253s] -- Found Ogre Ghadamon (1.9.0)
+[3.274s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[3.285s] -- Looking for OGRE_Paging...
+[3.303s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[3.303s] -- Looking for OGRE_Terrain...
+[3.321s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[3.321s] -- Looking for OGRE_Property...
+[3.340s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[3.340s] -- Looking for OGRE_RTShaderSystem...
+[3.358s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[3.358s] -- Looking for OGRE_Volume...
+[3.377s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[3.377s] -- Looking for OGRE_Overlay...
+[3.395s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[3.851s] -- Looking for ignition-math6 -- found version 6.12.0
+[3.867s] -- Looking for ignition-transport8 -- found version 8.2.1
+[3.867s] -- Searching for dependencies of ignition-transport8
+[3.906s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found suitable version "3.12.4", minimum required is "3") 
+[3.937s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[3.943s] -- Checking for module 'libzmq >= 4'
+[3.971s] --   Found libzmq , version 4.3.4
+[4.031s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[4.040s] -- Checking for module 'uuid'
+[4.066s] --   Found uuid, version 2.37.2
+[4.122s] -- Found UUID: TRUE  
+[4.138s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[4.138s] -- Searching for dependencies of ignition-msgs5
+[4.177s] -- Looking for ignition-math6 -- found version 6.12.0
+[4.185s] -- Checking for module 'tinyxml2'
+[4.211s] --   Found tinyxml2, version 9.0.0
+[4.269s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[4.286s] -- Looking for ignition-common3 -- found version 3.14.0
+[4.287s] -- Searching for dependencies of ignition-common3
+[4.288s] -- Looking for dlfcn.h - found
+[4.291s] -- Looking for libdl - found
+[4.292s] -- Found DL: TRUE  
+[4.321s] -- Found tinyobjloader: /usr/lib/x86_64-linux-gnu/cmake/tinyobjloader/tinyobjloader-config.cmake (found version "2.0.0") 
+[4.321s] -- Searching for <ignition-common3> component [graphics]
+[4.337s] -- Looking for ignition-common3-graphics -- found version 3.14.0
+[4.337s] -- Searching for dependencies of ignition-common3-graphics
+[4.338s] -- Looking for ignition-math6 -- found version 6.12.0
+[4.354s] -- Looking for ignition-fuel_tools4 -- found version 4.4.0
+[4.354s] -- Searching for dependencies of ignition-fuel_tools4
+[4.504s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.81.0")  
+[4.527s] -- Checking for module 'jsoncpp'
+[4.554s] --   Found jsoncpp, version 1.9.5
+[4.610s] -- Found JSONCPP: TRUE  
+[4.618s] -- Checking for module 'libzip'
+[4.644s] --   Found libzip, version 1.7.3
+[4.699s] -- Found ZIP: TRUE  
+[4.699s] -- Looking for ignition-common3 -- found version 3.14.0
+[4.700s] -- Looking for ignition-math6 -- found version 6.12.0
+[4.700s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[4.717s] -- Gazebo version: 11.10
+[4.717s] -- Checking for module 'tbb'
+[4.745s] --   Found tbb, version 2021.5.0
+[4.824s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.044s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.052s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.056s] -- Added test 'lint_cmake' to check CMake code style
+[5.059s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[5.064s] -- Added test 'xmllint' to check XML markup files
+[5.069s] -- Configuring done
+[5.076s] -- Generating done
+[5.079s] -- Build files have been written to: /home/user/ros2_ws/build/the_construct_office_gazebo
+[5.094s] Invoked command in '/home/user/ros2_ws/build/the_construct_office_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/universal_robot_ros2/the_construct_office_gazebo -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/the_construct_office_gazebo
+[5.097s] Invoking command in '/home/user/ros2_ws/build/the_construct_office_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/the_construct_office_gazebo -- -j8 -l8
+[5.165s] Invoked command in '/home/user/ros2_ws/build/the_construct_office_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/the_construct_office_gazebo -- -j8 -l8
+[5.238s] Invoking command in '/home/user/ros2_ws/build/the_construct_office_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/the_construct_office_gazebo
+[5.251s] -- Install configuration: ""
+[5.251s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/ament_index/resource_index/package_run_dependencies/the_construct_office_gazebo
+[5.251s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/ament_index/resource_index/parent_prefix_path/the_construct_office_gazebo
+[5.252s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/environment/ament_prefix_path.sh
+[5.252s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/environment/ament_prefix_path.dsv
+[5.252s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/environment/path.sh
+[5.252s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/environment/path.dsv
+[5.252s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/local_setup.bash
+[5.253s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/local_setup.sh
+[5.253s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/local_setup.zsh
+[5.253s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/local_setup.dsv
+[5.253s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/package.dsv
+[5.253s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/ament_index/resource_index/packages/the_construct_office_gazebo
+[5.253s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/cmake/the_construct_office_gazeboConfig.cmake
+[5.254s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/cmake/the_construct_office_gazeboConfig-version.cmake
+[5.254s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/package.xml
+[5.254s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/launch
+[5.254s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/launch/starbots_ur3e.launch.xml
+[5.254s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/launch/start_world.launch.py
+[5.254s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models
+[5.254s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/portable_cup_2
+[5.255s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/portable_cup_2/model.sdf
+[5.255s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/portable_cup_2/meshes
+[5.255s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/portable_cup_2/meshes/model
+[5.255s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/portable_cup_2/meshes/model/Starbucks_ring.png
+[5.255s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/portable_cup_2/meshes/portable_cup_2.dae
+[5.257s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/portable_cup_2/meshes/Starbucks_ring.png
+[5.257s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/portable_cup_2/meshes/cup_col.stl
+[5.257s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/portable_cup_2/meshes/Starbucks_ring_old.png
+[5.257s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/portable_cup_2/model.config
+[5.257s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/wall
+[5.257s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/wall/model.sdf
+[5.258s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/wall/model.config
+[5.258s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/starbots_bartender_dispenser
+[5.258s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/starbots_bartender_dispenser/model.sdf
+[5.258s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/starbots_bartender_dispenser/model.config
+[5.258s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine
+[5.258s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine/model.sdf
+[5.258s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine/meshes
+[5.258s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine/meshes/scene.bin
+[5.259s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine/meshes/cafeteria.dae
+[5.261s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine/meshes/scene.gltf
+[5.261s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine/meshes/license.txt
+[5.261s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine/meshes/Display_baseColor.jpeg
+[5.261s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine/meshes/textures
+[5.261s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine/meshes/textures/Wood_baseColor.jpeg
+[5.262s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine/meshes/textures/Display_baseColor.jpeg
+[5.262s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/coffee_machine/model.config
+[5.262s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/ground_plane
+[5.262s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/ground_plane/model-1_2.sdf
+[5.262s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/ground_plane/model-1_3.sdf
+[5.262s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/ground_plane/model.sdf
+[5.262s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/ground_plane/model-1_4.sdf
+[5.263s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/ground_plane/model.config
+[5.263s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/barista_model
+[5.263s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/barista_model/model.sdf
+[5.263s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/barista_model/meshes
+[5.263s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/barista_model/meshes/TOP_fixed_color.dae
+[5.264s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/barista_model/meshes/TOP_colour_1.dae
+[5.265s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/barista_model/model.config
+[5.265s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/sun
+[5.265s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/sun/model-1_2.sdf
+[5.265s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/sun/model-1_3.sdf
+[5.265s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/sun/model.sdf
+[5.265s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/sun/model-1_4.sdf
+[5.265s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/models/sun/model.config
+[5.265s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/worlds
+[5.266s] -- Installing: /home/user/ros2_ws/install/the_construct_office_gazebo/share/the_construct_office_gazebo/worlds/starbots_complete.world
+[5.268s] Invoked command in '/home/user/ros2_ws/build/the_construct_office_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/the_construct_office_gazebo

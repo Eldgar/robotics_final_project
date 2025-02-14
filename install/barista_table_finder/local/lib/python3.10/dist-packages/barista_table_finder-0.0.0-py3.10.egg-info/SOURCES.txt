@@ -1,0 +1,9 @@
+setup.py
+barista_table_finder/__init__.py
+barista_table_finder.egg-info/PKG-INFO
+barista_table_finder.egg-info/SOURCES.txt
+barista_table_finder.egg-info/dependency_links.txt
+barista_table_finder.egg-info/top_level.txt
+barista_table_finder/action/__init__.py
+barista_table_finder/action/_align_barista.py
+barista_table_finder/action/_go_under_table.py

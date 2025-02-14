@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/barista_table_finder__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/barista_table_finder/action/detail/dds_fastrtps/align_barista__type_support.cpp.o"
+  "CMakeFiles/barista_table_finder__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/barista_table_finder/action/detail/dds_fastrtps/align_barista__type_support.cpp.o.d"
+  "CMakeFiles/barista_table_finder__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/barista_table_finder/action/detail/dds_fastrtps/go_under_table__type_support.cpp.o"
+  "CMakeFiles/barista_table_finder__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/barista_table_finder/action/detail/dds_fastrtps/go_under_table__type_support.cpp.o.d"
+  "libbarista_table_finder__rosidl_typesupport_fastrtps_cpp.pdb"
+  "libbarista_table_finder__rosidl_typesupport_fastrtps_cpp.so"
+  "rosidl_typesupport_fastrtps_cpp/barista_table_finder/action/detail/align_barista__rosidl_typesupport_fastrtps_cpp.hpp"
+  "rosidl_typesupport_fastrtps_cpp/barista_table_finder/action/detail/dds_fastrtps/align_barista__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/barista_table_finder/action/detail/dds_fastrtps/go_under_table__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/barista_table_finder/action/detail/go_under_table__rosidl_typesupport_fastrtps_cpp.hpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/barista_table_finder__rosidl_typesupport_fastrtps_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

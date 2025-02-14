@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/barista_dock_charger_station__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/barista_dock_charger_station/msg/detail/fleet_dock_status__type_support_c.cpp.o"
+  "CMakeFiles/barista_dock_charger_station__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/barista_dock_charger_station/msg/detail/fleet_dock_status__type_support_c.cpp.o.d"
+  "CMakeFiles/barista_dock_charger_station__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/barista_dock_charger_station/srv/detail/dock_charger_station__type_support_c.cpp.o"
+  "CMakeFiles/barista_dock_charger_station__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/barista_dock_charger_station/srv/detail/dock_charger_station__type_support_c.cpp.o.d"
+  "libbarista_dock_charger_station__rosidl_typesupport_fastrtps_c.pdb"
+  "libbarista_dock_charger_station__rosidl_typesupport_fastrtps_c.so"
+  "rosidl_typesupport_fastrtps_c/barista_dock_charger_station/msg/detail/fleet_dock_status__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/barista_dock_charger_station/msg/detail/fleet_dock_status__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/barista_dock_charger_station/srv/detail/dock_charger_station__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/barista_dock_charger_station/srv/detail/dock_charger_station__type_support_c.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/barista_dock_charger_station__rosidl_typesupport_fastrtps_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

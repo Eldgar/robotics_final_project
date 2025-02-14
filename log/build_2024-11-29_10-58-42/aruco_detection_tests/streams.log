@@ -1,0 +1,26 @@
+[2.923s] Invoking command in '/home/user/ros2_ws/src/aruco_detection_tests': PYTHONPATH=/home/user/ros2_ws/build/aruco_detection_tests/prefix_override:/home/user/ros2_ws/install/aruco_detection_tests/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/aruco_detection_tests build --build-base /home/user/ros2_ws/build/aruco_detection_tests/build install --record /home/user/ros2_ws/build/aruco_detection_tests/install.log --single-version-externally-managed
+[3.705s] running egg_info
+[3.708s] writing ../../build/aruco_detection_tests/aruco_detection_tests.egg-info/PKG-INFO
+[3.708s] writing dependency_links to ../../build/aruco_detection_tests/aruco_detection_tests.egg-info/dependency_links.txt
+[3.709s] writing entry points to ../../build/aruco_detection_tests/aruco_detection_tests.egg-info/entry_points.txt
+[3.709s] writing requirements to ../../build/aruco_detection_tests/aruco_detection_tests.egg-info/requires.txt
+[3.710s] writing top-level names to ../../build/aruco_detection_tests/aruco_detection_tests.egg-info/top_level.txt
+[3.713s] reading manifest file '../../build/aruco_detection_tests/aruco_detection_tests.egg-info/SOURCES.txt'
+[3.714s] writing manifest file '../../build/aruco_detection_tests/aruco_detection_tests.egg-info/SOURCES.txt'
+[3.715s] running build
+[3.715s] running build_py
+[3.715s] copying aruco_detection_tests/aruco_marker_pose_estimation_tf.py -> /home/user/ros2_ws/build/aruco_detection_tests/build/lib/aruco_detection_tests
+[3.716s] running install
+[3.716s] running install_lib
+[3.717s] copying /home/user/ros2_ws/build/aruco_detection_tests/build/lib/aruco_detection_tests/aruco_marker_pose_estimation_tf.py -> /home/user/ros2_ws/install/aruco_detection_tests/lib/python3.10/site-packages/aruco_detection_tests
+[3.719s] byte-compiling /home/user/ros2_ws/install/aruco_detection_tests/lib/python3.10/site-packages/aruco_detection_tests/aruco_marker_pose_estimation_tf.py to aruco_marker_pose_estimation_tf.cpython-310.pyc
+[3.720s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.720s]   warnings.warn(
+[3.723s] running install_data
+[3.724s] running install_egg_info
+[3.727s] removing '/home/user/ros2_ws/install/aruco_detection_tests/lib/python3.10/site-packages/aruco_detection_tests-0.0.0-py3.10.egg-info' (and everything under it)
+[3.728s] Copying ../../build/aruco_detection_tests/aruco_detection_tests.egg-info to /home/user/ros2_ws/install/aruco_detection_tests/lib/python3.10/site-packages/aruco_detection_tests-0.0.0-py3.10.egg-info
+[3.730s] running install_scripts
+[3.778s] Installing aruco_marker_pose_estimator_tf script to /home/user/ros2_ws/install/aruco_detection_tests/lib/aruco_detection_tests
+[3.779s] writing list of installed files to '/home/user/ros2_ws/build/aruco_detection_tests/install.log'
+[3.908s] Invoked command in '/home/user/ros2_ws/src/aruco_detection_tests' returned '0': PYTHONPATH=/home/user/ros2_ws/build/aruco_detection_tests/prefix_override:/home/user/ros2_ws/install/aruco_detection_tests/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/aruco_detection_tests build --build-base /home/user/ros2_ws/build/aruco_detection_tests/build install --record /home/user/ros2_ws/build/aruco_detection_tests/install.log --single-version-externally-managed

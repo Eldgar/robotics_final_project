@@ -1,0 +1,4 @@
+source;share/barista_gazebo/local_setup.bash
+source;share/barista_gazebo/local_setup.dsv
+source;share/barista_gazebo/local_setup.sh
+source;share/barista_gazebo/local_setup.zsh

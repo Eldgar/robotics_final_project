@@ -1,0 +1,7 @@
+{
+  "package_name": "barista_dock_charger_station",
+  "non_idl_tuples": [
+    "/home/user/ros2_ws/src/universal_robot_ros2/barista_ros2/barista_dock_charger_station:srv/DockChargerStation.srv",
+    "/home/user/ros2_ws/src/universal_robot_ros2/barista_ros2/barista_dock_charger_station:msg/FleetDockStatus.msg"
+  ]
+}

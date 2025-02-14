@@ -1,0 +1,6 @@
+msg/FleetDockStatus.idl
+msg/FleetDockStatus.msg
+srv/DockChargerStation.idl
+srv/DockChargerStation.srv
+srv/DockChargerStation_Request.msg
+srv/DockChargerStation_Response.msg

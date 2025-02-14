@@ -1,0 +1,44 @@
+[0.994s] Invoking command in '/home/user/ros2_ws/build/main_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/main_navigation -- -j8 -l8
+[1.383s] Invoked command in '/home/user/ros2_ws/build/main_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/main_navigation -- -j8 -l8
+[2.183s] Invoking command in '/home/user/ros2_ws/build/main_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/main_navigation
+[2.289s] -- Install configuration: ""
+[2.290s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch
+[2.290s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1_2_turtleworld.launch.xml
+[2.290s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1_ramenshop_pantry.launch.xml
+[2.292s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1.launch.xml
+[2.293s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1_ramenshop.launch.xml
+[2.293s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_2.launch.xml
+[2.293s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_navigation_rviz_starbots_three.launch.xml
+[2.293s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav.launch.xml
+[2.293s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_rviz.launch.py
+[2.293s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_2_turtleworld.launch.xml
+[2.293s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_navigation_rviz.launch.xml
+[2.295s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_navigation_rviz_starbots.launch.xml
+[2.295s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1_turtleworld.launch.xml
+[2.295s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/launch/start_nav_barista_1_2_mule_turtleworld.launch.xml
+[2.295s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz
+[2.295s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/navigation copy.rviz
+[2.295s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/baristas_turtleE_starbots.rviz
+[2.296s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/navigation_turtleworld copy.rviz
+[2.296s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/baristas_starbots.rviz
+[2.296s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/navigation_turtleworld.rviz
+[2.296s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/ramenshop.rviz
+[2.296s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/rviz/navigation.rviz
+[2.296s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/params
+[2.296s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/params/dummy.txt
+[2.296s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/ament_index/resource_index/package_run_dependencies/main_navigation
+[2.296s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/ament_index/resource_index/parent_prefix_path/main_navigation
+[2.296s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/environment/ament_prefix_path.sh
+[2.297s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/environment/ament_prefix_path.dsv
+[2.297s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/environment/path.sh
+[2.297s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/environment/path.dsv
+[2.297s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/local_setup.bash
+[2.297s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/local_setup.sh
+[2.297s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/local_setup.zsh
+[2.297s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/local_setup.dsv
+[2.297s] -- Installing: /home/user/ros2_ws/install/main_navigation/share/main_navigation/package.dsv
+[2.297s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/ament_index/resource_index/packages/main_navigation
+[2.298s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/cmake/main_navigationConfig.cmake
+[2.298s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/cmake/main_navigationConfig-version.cmake
+[2.298s] -- Up-to-date: /home/user/ros2_ws/install/main_navigation/share/main_navigation/package.xml
+[4.094s] Invoked command in '/home/user/ros2_ws/build/main_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/ros2test:/home/user/ros2_ws/install/robotiq_85_driver:/home/user/ros2_ws/install/path_planner_server:/home/user/ros2_ws/install/moveit_configs_utils:/home/user/ros2_ws/install/localization_server:/home/user/ros2_ws/install/cartographer_slam:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/main_navigation

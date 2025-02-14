@@ -1,0 +1,22 @@
+[1.649s] Invoking command in '/home/user/ros2_ws/src/universal_robot_ros2/barista_ros2/barista_navigation/localization_server': PYTHONPATH=/home/user/ros2_ws/build/localization_server/prefix_override:/home/user/ros2_ws/install/localization_server/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/localization_server build --build-base /home/user/ros2_ws/build/localization_server/build install --record /home/user/ros2_ws/build/localization_server/install.log --single-version-externally-managed
+[2.032s] running egg_info
+[2.033s] writing ../../../../../build/localization_server/localization_server.egg-info/PKG-INFO
+[2.033s] writing dependency_links to ../../../../../build/localization_server/localization_server.egg-info/dependency_links.txt
+[2.034s] writing entry points to ../../../../../build/localization_server/localization_server.egg-info/entry_points.txt
+[2.034s] writing requirements to ../../../../../build/localization_server/localization_server.egg-info/requires.txt
+[2.034s] writing top-level names to ../../../../../build/localization_server/localization_server.egg-info/top_level.txt
+[2.036s] reading manifest file '../../../../../build/localization_server/localization_server.egg-info/SOURCES.txt'
+[2.037s] writing manifest file '../../../../../build/localization_server/localization_server.egg-info/SOURCES.txt'
+[2.037s] running build
+[2.037s] running build_py
+[2.038s] running install
+[2.038s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.038s]   warnings.warn(
+[2.038s] running install_lib
+[2.039s] running install_data
+[2.041s] running install_egg_info
+[2.043s] removing '/home/user/ros2_ws/install/localization_server/lib/python3.10/site-packages/localization_server-0.0.0-py3.10.egg-info' (and everything under it)
+[2.044s] Copying ../../../../../build/localization_server/localization_server.egg-info to /home/user/ros2_ws/install/localization_server/lib/python3.10/site-packages/localization_server-0.0.0-py3.10.egg-info
+[2.045s] running install_scripts
+[2.074s] writing list of installed files to '/home/user/ros2_ws/build/localization_server/install.log'
+[2.187s] Invoked command in '/home/user/ros2_ws/src/universal_robot_ros2/barista_ros2/barista_navigation/localization_server' returned '0': PYTHONPATH=/home/user/ros2_ws/build/localization_server/prefix_override:/home/user/ros2_ws/install/localization_server/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/localization_server build --build-base /home/user/ros2_ws/build/localization_server/build install --record /home/user/ros2_ws/build/localization_server/install.log --single-version-externally-managed

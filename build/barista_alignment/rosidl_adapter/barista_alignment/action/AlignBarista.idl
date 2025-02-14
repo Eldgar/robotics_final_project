@@ -1,0 +1,26 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from barista_alignment/action/AlignBarista.action
+// generated code does not contain a copyright notice
+
+
+module barista_alignment {
+  module action {
+    @verbatim (language="comment", text=
+      "goal")
+    struct AlignBarista_Goal {
+      boolean start;
+    };
+    @verbatim (language="comment", text=
+      "result")
+    struct AlignBarista_Result {
+      boolean complete;
+    };
+    @verbatim (language="comment", text=
+      "feedback")
+    struct AlignBarista_Feedback {
+      float front;
+
+      float right;
+    };
+  };
+};

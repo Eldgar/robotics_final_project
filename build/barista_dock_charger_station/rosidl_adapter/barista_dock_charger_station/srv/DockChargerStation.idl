@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from barista_dock_charger_station/srv/DockChargerStation.srv
+// generated code does not contain a copyright notice
+
+
+module barista_dock_charger_station {
+  module srv {
+    struct DockChargerStation_Request {
+      @verbatim (language="comment", text=
+        "true = DOCK, false = Undock")
+      boolean dock_mode;
+    };
+    struct DockChargerStation_Response {
+      @verbatim (language="comment", text=
+        "Did it achieve it?")
+      boolean success;
+
+      @verbatim (language="comment", text=
+        "Info")
+      string info;
+    };
+  };
+};

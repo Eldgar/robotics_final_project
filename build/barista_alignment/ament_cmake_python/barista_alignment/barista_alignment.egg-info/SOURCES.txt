@@ -1,0 +1,8 @@
+setup.py
+barista_alignment/__init__.py
+barista_alignment.egg-info/PKG-INFO
+barista_alignment.egg-info/SOURCES.txt
+barista_alignment.egg-info/dependency_links.txt
+barista_alignment.egg-info/top_level.txt
+barista_alignment/action/__init__.py
+barista_alignment/action/_align_barista.py

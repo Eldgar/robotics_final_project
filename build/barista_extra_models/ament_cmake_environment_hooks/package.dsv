@@ -1,0 +1,4 @@
+source;share/barista_extra_models/local_setup.bash
+source;share/barista_extra_models/local_setup.dsv
+source;share/barista_extra_models/local_setup.sh
+source;share/barista_extra_models/local_setup.zsh
